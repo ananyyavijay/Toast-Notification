@@ -41,9 +41,6 @@ This project demonstrates a simple toast notification using HTML, CSS, and JavaS
 ├── style.css
 └── script.js
 
-yaml
-Copy
-Edit
 
 ---
 
