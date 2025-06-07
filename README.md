@@ -1,6 +1,3 @@
-markdown
-Copy
-Edit
 # Toast Notification with Slide-In Animation
 
 This project demonstrates a simple toast notification using HTML, CSS, and JavaScript. The toast smoothly slides in from the right using the CSS `translateX` animation.
